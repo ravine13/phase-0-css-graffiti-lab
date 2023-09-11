@@ -1,28 +1,28 @@
 /* write your override styles here */
 #wall .tag-1 {
-    display: block;
+    display: none;
   }
 
   #wall #tag-2{
-    display: block;
+    display: none;
   }
 
   #wall #tag-3 {
-    display: block;
+    display: none;
   }
 
   #wall .parent #tag-4 { 
-    display: block;
+    display: none;
   }
   #wall .parent #tag-5 { 
-    display: block;
+    display: none;
   }
   #wall .parent > div:nth-child(2) #tag-6 { 
-    display: block;
+    display: none;
   }
   
   #wall .parent > div #tag-7 { 
-    display: block;
+    display: none;
   }
   
 
